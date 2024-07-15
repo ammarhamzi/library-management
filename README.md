@@ -35,11 +35,13 @@ This project is a Library Management System built in Python. It allows managing 
   Extract the zip file and run LIBRARY MANAGEMENT SYSTEM.exe.
   
 ## Files and Directories
-  
+
+```bash
 library.py: Main Python script containing the Library Management System logic.
 init_db.py: Script to initialize the SQLite database (library.db).
 data/: Directory containing the SQLite database file library.db.
 services.py, models.py, utils.py: Python modules for database operations, business logic, and utility functions.
+```
 
 ## Contributing
 Fork the repository, make changes, and submit a pull request.
@@ -47,7 +49,6 @@ For major changes, open an issue first to discuss what you would like to change.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
 
 
 
