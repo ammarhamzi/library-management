@@ -30,9 +30,11 @@ This project is a Library Management System built in Python. It allows managing 
     python library.py
     
 2. Using Executable (Windows):
-
-  Download the zip file from Library Management System.
-  Extract the zip file and run LIBRARY MANAGEMENT SYSTEM.exe.
+   ```bash
+   > Download the zip file from this repository.
+   > Extract the zip file.
+   > run LIBRARY MANAGEMENT SYSTEM.exe.
+  
   
 ## Files and Directories
 
