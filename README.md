@@ -16,7 +16,6 @@ This project is a Library Management System built in Python. It allows managing 
 ## Requirements
 - Python 3.11
 - SQLite (for database operations)
-- Required Python packages (install via `pip install -r requirements.txt`)
 
 ## Installation
 1. Clone the repository:
